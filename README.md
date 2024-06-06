@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ArsalanJawed209">
+                    <img src="https://avatars.githubusercontent.com/u/126517436?v=4" width="100px;" alt="Arsalan Jawaid"/>
+                    <br />
+                    <sub><b>Arsalan Jawaid</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
